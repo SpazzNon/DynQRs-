@@ -7,5 +7,14 @@
     "description": "Ahora edita, divide y une tramos ágilmente",
     "imageUrl": "https://i.imgur.com/zvynmuG.png",
     "link": ""
-  }
+  },
+  {
+  "id": "2",
+  "type": "youtube",
+  "title": "Tutorial: Primeros pasos",
+  "date": "2026-05-20",
+  "description": "Descripción que aparece debajo de la imagen.",
+  "youtubeId": "ioSXOoffmzE",
+  "link": "https://www.youtube.com/watch?v=ioSXOoffmzE"
+}
 ]
