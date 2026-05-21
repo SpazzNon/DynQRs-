@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "type": "youtube",
+    "title": "Tutorial: Modelado de losas en SlabSees",
+    "date": "2026-05-18",
+    "description": "Aprende a definir grupos de viguetas, asignar secciones y ejecutar el análisis no lineal con OpenSeesPy.",
+    "youtubeId": "b3FywGZ_Ddw",
+    "link": "https://www.youtube.com/watch?v=b3FywGZ_Ddw"
+  },
+  {
+    "id": "2",
+    "type": "image",
+    "title": "SlabSees 1.2 disponible",
+    "date": "2026-05-10",
+    "description": "Nueva versión con soporte DXF y exportación mejorada.",
+    "imageUrl": "https://URL_DE_UNA_IMAGEN.jpg",
+    "link": ""
+  }
+]
